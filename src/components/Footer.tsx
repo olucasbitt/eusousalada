@@ -115,11 +115,7 @@ export const Footer = () => {
           </motion.a>
         </div>
 
-        <div className="text-center md:text-right">
-           <p className="text-white/20 text-[9px] uppercase tracking-[0.3em] font-bold flex items-center justify-center md:justify-end gap-2">
-            Feito com <Heart size={10} className="text-red-500 fill-red-500" /> no RS
-          </p>
-        </div>
+        
       </div>
     </footer>
   );
