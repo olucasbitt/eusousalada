@@ -1,0 +1,12 @@
+{
+  "name": "Salada",
+  "description": "Landing page moderna e de alto impacto para comediantes stand-up, focada em branding, experiência visual e organização de shows. Combina estética premium com identidade regional gaúcha, incluindo vídeos, agenda dinâmica e integração com venda de ingressos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "responsive_design",
+    "dynamic_event_listing",
+    "video_showcase",
+    "external_ticket_integration",
+    "mobile_friendly_editing_via_sheets"
+  ]
+}
